@@ -29,7 +29,7 @@ How to run the tests
   PowerShell
   ```powershell
   python -m pip install pytest
-  pytest -q
+  pytest test_bowling.py
   ```
 
 Notes about running the code
